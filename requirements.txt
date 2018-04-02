@@ -6,3 +6,5 @@ psycopg2==2.7.3.2
 pytz==2017.3
 virtualenv==15.1.0
 whitenoise==3.3.1
+watson-developer-cloud==1.2.1
+Twisted==17.9.0
